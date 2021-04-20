@@ -1,2 +1,2 @@
-# ChainOfCommand
-This project implements a chain of command design pattern. 
+#CoR
+This project implements a chain of responsibility design pattern. 
